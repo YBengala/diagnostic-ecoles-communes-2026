@@ -1,0 +1,46 @@
+{
+  "k_final": 5,
+  "clusters": {
+    "2": {
+      "label": "Urbain REP dense",
+      "n": 916,
+      "pct": 2.6,
+      "score_pca_moyen": 0.455,
+      "pop_totale_mediane": 6306.0,
+      "pct_rep_moyen": 1.0
+    },
+    "3": {
+      "label": "Communes bien dotées",
+      "n": 258,
+      "pct": 0.7,
+      "score_pca_moyen": 0.332,
+      "pop_totale_mediane": 303.0,
+      "pct_rep_moyen": 0.34
+    },
+    "0": {
+      "label": "Rural isolé",
+      "n": 13335,
+      "pct": 38.2,
+      "score_pca_moyen": 0.495,
+      "pop_totale_mediane": 166.0,
+      "pct_rep_moyen": 0.0
+    },
+    "1": {
+      "label": "Rural sous pression",
+      "n": 13944,
+      "pct": 39.9,
+      "score_pca_moyen": 0.747,
+      "pop_totale_mediane": 1309.0,
+      "pct_rep_moyen": 0.0
+    },
+    "4": {
+      "label": "Périurbain croissance",
+      "n": 6494,
+      "pct": 18.6,
+      "score_pca_moyen": 0.614,
+      "pop_totale_mediane": 377.0,
+      "pct_rep_moyen": 0.0
+    }
+  },
+  "note": "Labels attribués par heuristique sur pct_rep, pop_totale, score_pca — à vérifier vs zones REP+ officielles MEN"
+}

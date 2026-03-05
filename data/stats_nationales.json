@@ -1,0 +1,13 @@
+{
+  "nb_communes_total": 34970,
+  "nb_communes_alerte_combinee": 6142,
+  "pct_rural_tension": 0.399,
+  "nb_vrais_deserts": 252,
+  "moran_i_global": 0.3202,
+  "seuil_tension_forte_p90": 0.84,
+  "seuil_tension_moderate_p75": 0.758,
+  "nb_communes_tension_forte": 3495,
+  "nb_communes_sans_titulaire_fort": 20071,
+  "nb_classes_surchargees": 1039,
+  "nb_hotspots_lisa": 3119
+}
